@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "deleted",
+    "project_id": "your-app-id",
+    "storage_bucket": "your-app-id.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "deleted",
+        "android_client_info": {
+          "package_name": "com.mehmetalper04.sinavgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "deleted",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehmetalper04.sinavgram",
+            "certificate_hash": "deleted"
+          }
+        },
+        {
+          "client_id": "deleted",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehmetalper04.sinavgram",
+            "certificate_hash": "deleted"
+          }
+        },
+        {
+          "client_id": "deleted",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehmetalper04.sinavgram",
+            "certificate_hash": "deleted"
+          }
+        },
+        {
+          "client_id": "deleted",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "deleted"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "deleted",
+              "client_type": 3
+            },
+            {
+              "client_id": "deleted",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mehmetalper04.sinavgram",
+                "app_store_id": "deleted"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

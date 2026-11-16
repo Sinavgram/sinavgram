@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"your-app-id","appId":"deleted","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"your-app-id","configurations":{"android":"deleted","ios":"deleted","web":"deleted"}}}}}}
